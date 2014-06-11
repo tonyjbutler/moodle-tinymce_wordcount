@@ -30,3 +30,5 @@ $plugin->version   = 2014051200;
 $plugin->requires  = 2013051400;
 // Full name of the plugin (used for diagnostics).
 $plugin->component = 'tinymce_wordcount';
+$plugin->release   = '2.5.0';
+$plugin->maturity  = MATURITY_STABLE;
